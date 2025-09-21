@@ -31,4 +31,5 @@ CSS3
 JavaScript (ES6)
 
 GitHub
+https://github.com/Yatin188/Student-Registration-Project
 
