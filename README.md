@@ -19,9 +19,9 @@ File Structure
 
 student-registration-system
 
-index.html Main HTML file
-style.css Styling
-script.js JavaScript logic
+StudentRegistration.html Main HTML file
+StudentRegistration.css Styling
+StudentRegistration.js JavaScript logic
 README.md Documentation
 
 Technologies Used
